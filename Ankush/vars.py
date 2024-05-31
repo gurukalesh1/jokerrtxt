@@ -1,5 +1,5 @@
-api_id = 23907288
-api_hash = "f9a47570ed19aebf8eb0f0a5ec1111e5"
-bot_token = "6768524089:AAFVzGkRDQy7_CJmCd63D-4RtHGKuuGFRTs"
-AUTH = 6464246531
+api_id = 23291931
+api_hash = "4b11dd648188731fb7c9bc8083e8791c"
+bot_token = "7129448604:AAHBtE1PZG2YGutDVNZ_pgH5E_1UNW9BsDo"
+AUTH = 6594402123
 #Bot Username = "PWdownloader2_bot"

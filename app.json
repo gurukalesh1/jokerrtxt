@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "repository": "https://github.com/gurukalesh1/jokerrtxt",
-    "success_url": "https://t.me/teamjaishriramBot",
+    "success_url": "https://t.me/mendaxfree",
     "stack": "container",
     "env": {
         "API_ID": {
